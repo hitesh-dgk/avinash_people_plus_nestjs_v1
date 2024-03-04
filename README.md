@@ -69,6 +69,9 @@ https://www.youtube.com/watch?v=xrc7dIO_tXk&list=PL4RCxklHWZ9vmzBP7lybE08CxbIU17
 MongoDb has documented the CRUD operations, please take a look into it.
 https://www.mongodb.com/docs/manual/crud/
 
+Also to use the common MongoDb Atlas project, developer need to provide the IP address for their machine to the Author of this repo, so has to add it 
+to Mongodb cluster
+
 ## Swagger
 To document all our application apis, Swagger is integrated as a tool to manage it.
 Below is the setup link:
